@@ -60,4 +60,4 @@ jupyter notebook problems.ipynb
 - No external files necessary 
 
 ## Reference
-The main reference used throughout this notebook and `problem.ipynb` is the [Secure Hash Standard](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf) (FIBS PUB-180).
+The main reference used throughout this notebook and `problems.ipynb` is the [Secure Hash Standard](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf) (FIBS PUB-180).
